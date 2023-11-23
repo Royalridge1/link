@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
 
 .cont {
-    color:rgb(0, 0, 0);
+    color: black;
 }
 
 .img {
@@ -12,26 +12,27 @@
 }
 
 .container {
-    background-image: url("https://res.cloudinary.com/dnvtmquxq/image/upload/v1700489206/build_yrwegg.png");
+    background-image: url("https://res.cloudinary.com/dnvtmquxq/image/upload/v1700469366/build_shnroa.png");
+    height:100vh;
+    width:100vh;
     background-size:cover;
-    width:100vh
-    height:50vh
     background-position: center;
 }
 
 .buttonw {
-    width: 320px;
-    margin: 30px;
+    width: 420px;
+    height:120px;
+    margin: 100px;
     border-style: solid;
     border-radius: 15px;
     background-color: white;
     border: 20px;
     border-color: black;
-    color: rgb(0, 0, 0);
-    padding: 20px;
+    color: black;
+    padding: 10px;
     text-align: center;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 32px;
 }
 
 .cont2 {
@@ -70,7 +71,7 @@
     background-color: transparent;
     border: 20px;
     border-color: black;
-    color: rgb(129, 10, 10);
+    color: white;
     padding: 20px;
     text-align: center;
     text-decoration: none;
