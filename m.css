@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.cont {
+    color:rgb(0, 0, 0);
+}
+
+.img {
+    height: 15vh;
+    width: 30vh;
+    margin: 5px;
+    padding: 15px;
+}
+
+.container {
+    background-image: url("https://res.cloudinary.com/dnvtmquxq/image/upload/v1700469366/build_shnroa.png");
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+
+.buttonw {
+    width: 220px;
+    margin: 30px;
+    border-style: solid;
+    border-radius: 15px;
+    background-color: white;
+    border: 20px;
+    border-color: black;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.cont2 {
+    background-color: white;
+    height: 100vh;
+}
+
+.buttons {
+    width: 220px;
+    margin: 30px;
+    border-style: solid;
+    border-radius: 15px;
+    background-color: transparent;
+    border: 20px;
+    border-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    background: linear-gradient(120DEG, #3B5998, #FFFFFF)
+}
+
+.buttonb {
+    color: white;
+    background-color: #5A5A5A;
+    border-radius: 5px;
+    border-color: black;
+}
+
+.buttoni {
+    width: 220px;
+    margin: 30px;
+    border-style: solid;
+    border-radius: 15px;
+    background-color: transparent;
+    border: 20px;
+    border-color: black;
+    color: rgb(129, 10, 10);
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+}
