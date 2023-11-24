@@ -1,9 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
 
 .cont {
-    color: black;
+    background-color:#0f3342;
+    height:100vh;
+    background-size:cover;
 }
-
+.cont2{
+    background-color:#00000;
+    height:100vh;
+    background-size:cover;
+}
+.front{
+    height:50vh;
+    width:90vh;
+}
 .img {
     height: 15vh;
     width: 30vh;
@@ -13,26 +23,24 @@
 
 .container {
     background-image: url("https://res.cloudinary.com/dnvtmquxq/image/upload/v1700469366/build_shnroa.png");
-    height:100vh;
-    width:100vh;
-    background-size:cover;
+    background-size: cover;
+    height: 100vh;
     background-position: center;
 }
 
 .buttonw {
-    width: 420px;
-    height:120px;
-    margin: 100px;
+    width: 220px;
+    margin: 30px;
     border-style: solid;
     border-radius: 15px;
     background-color: white;
     border: 20px;
     border-color: black;
     color: black;
-    padding: 10px;
+    padding: 20px;
     text-align: center;
     text-decoration: none;
-    font-size: 32px;
+    font-size: 16px;
 }
 
 .cont2 {
