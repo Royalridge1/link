@@ -29,8 +29,8 @@
 }
 
 .buttonw {
-    width: 220px;
-    margin: 30px;
+    width: 320px;
+    margin: 60px;
     border-style: solid;
     border-radius: 15px;
     background-color: white;
@@ -40,7 +40,7 @@
     padding: 20px;
     text-align: center;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 32px;
 }
 
 .cont2 {
